@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏡 LuxeStay Real Estate Landing Page
+# 🏡 Estate Living Landing Page
 
 ### A Modern, Animated Real Estate Experience
 
