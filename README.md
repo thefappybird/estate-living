@@ -169,26 +169,6 @@ The property grid automatically adjusts from 1 to 4 columns based on screen size
 
 ---
 
-## 🚀 Deployment
-
-### Deploy to Vercel (Recommended)
-
-The easiest way to deploy is using the Vercel platform:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/luxestay-real-estate)
-
-### Manual Deployment
-
-```bash
-# Build for production
-npm run build
-
-# Start production server
-npm start
-```
-
----
-
 ## 📸 Screenshots
 
 > **Hero Section**  
