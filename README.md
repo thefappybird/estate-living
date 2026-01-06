@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏡 LuxeStay Real Estate Landing Page
+# 🏡 Estate Living Landing Page
 
 ### A Modern, Animated Real Estate Experience
 
@@ -167,40 +167,6 @@ Hover over property cards to see smooth scale transitions and shadow effects tha
 ### Responsive Grid System
 The property grid automatically adjusts from 1 to 4 columns based on screen size, ensuring optimal viewing on any device.
 
----
-
-## 🚀 Deployment
-
-### Deploy to Vercel (Recommended)
-
-The easiest way to deploy is using the Vercel platform:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/luxestay-real-estate)
-
-### Manual Deployment
-
-```bash
-# Build for production
-npm run build
-
-# Start production server
-npm start
-```
-
----
-
-## 📸 Screenshots
-
-> **Hero Section**  
-> Full-screen impact with search interface
-
-> **Property Grid**  
-> Responsive showcase of luxury listings
-
-> **Animated Features**  
-> Service highlights with smooth reveals
-
----
 
 ## 🤝 Contributing
 
@@ -231,9 +197,9 @@ This project draws inspiration from:
 
 ## 📞 Contact
 
-**Project Link:** [https://github.com/yourusername/luxestay-real-estate](https://github.com/yourusername/luxestay-real-estate)
+**Project Link:** [https://github.com/thefappybird/estate-living](https://github.com/thefappybird/estate-living)
 
-**Live Demo:** [https://your-demo-url.vercel.app](https://your-demo-url.vercel.app)
+**Live Demo:** [https://github.com/thefappybird/estate-living](https://github.com/thefappybird/estate-living)
 
 ---
 
